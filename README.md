@@ -9,9 +9,10 @@
 
 ## 🌟 Connect with Me:
 <p align="left">
-  <a href="mailto:abhiramyadavmyla@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-abhiramyadavmyla@gmail.com-9c27b0?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:abhiramyadavmyla@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-abhiramyadavmyla@gmail.com-green?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
 
 ---
 
